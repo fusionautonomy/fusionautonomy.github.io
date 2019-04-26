@@ -6,8 +6,6 @@ comments: false
 
 ## Faculty
 
-## Faculty
-
 
 | ![Prof. Xinming Huang]({{site.baseurl}}/assets/images/xinming.gif) | | **Xinming Huang**<br> Professor<br> Department of Electrical and Computer Engineering, WPI<br> Email: xhuang@wpi.edu<br> Phone: +1-508-831-5771<br> <a href="http://users.wpi.edu/~xhuang/">Personal page</a> |
 
