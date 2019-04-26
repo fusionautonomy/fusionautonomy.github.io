@@ -1,30 +1,31 @@
 ---
 layout: page
 title: Members
-comments: true
+comments: false
 ---
 
-**Faculty**
+## Faculty
 
-Xinming Huang
-
-| ![Prof. Xinming Huang]({{site.baseurl}}/assets/images/xinming.gif) | | Professor<br> Department of Electrical and Computer Engineering, WPI<br> Email: xhuang@wpi.edu<br> Phone: +1-508-831-5771<br> <a href="http://users.wpi.edu/~xhuang/">Personal page</a> |
-
-<br>
-<br>
+## Faculty
 
 
-**Current Members**
-
-| ![Yecheng Lyu]({{site.baseurl}}/assets/images/yecheng.jpg) | | ![Lin Bai]({{site.baseurl}}/assets/images/yecheng.jpg) | | ![Mahdi Elhousni]({{site.baseurl}}/assets/images/yecheng.jpg) | | ![Yiming Zhao]({{site.baseurl}}/assets/images/yiming.jpg) |
-| Yecheng Lyu<br> Email: ylyu@wpi.edu<br> <a href="https://scholar.google.com/citations?user=yZHiTWsAAAAJ&hl=en">Google Scholar</a> | | Lin Bai<br> Email: lbai2@wpi.edu<br> <a href="https://scholar.google.com/citations?hl=en&user=L7gsnOEAAAAJ">Google Scholar</a><br> <a href="https://linbaiwpi.github.io">Personal page</a> | | Mahdi Elhousni<br> Email: melhousni@wpi.edu | | Yiming Zhao<br> Email: yzhao7@wpi.edu
+| ![Prof. Xinming Huang]({{site.baseurl}}/assets/images/xinming.gif) | | **Xinming Huang**<br> Professor<br> Department of Electrical and Computer Engineering, WPI<br> Email: xhuang@wpi.edu<br> Phone: +1-508-831-5771<br> <a href="http://users.wpi.edu/~xhuang/">Personal page</a> |
 
 <br>
 <br>
 
 
+## Current Members
 
-**Alumni**
+| ![Yecheng Lyu]({{site.baseurl}}/assets/images/yecheng.jpg) | | | ![Lin Bai]({{site.baseurl}}/assets/images/yecheng.jpg) | | | ![Mahdi Elhousni]({{site.baseurl}}/assets/images/yecheng.jpg) | | | ![Yiming Zhao]({{site.baseurl}}/assets/images/yiming.jpg) |
+| **Yecheng Lyu**<br> ylyu@wpi.edu<br> <a href="https://scholar.google.com/citations?user=yZHiTWsAAAAJ&hl=en">Google Scholar</a> | | | **Lin Bai**<br> lbai2@wpi.edu<br> <a href="https://scholar.google.com/citations?hl=en&user=L7gsnOEAAAAJ">Google Scholar</a><br> <a href="https://linbaiwpi.github.io">Personal page</a> | | | **Mahdi Elhousni**<br> melhousni@wpi.edu | | | **Yiming Zhao**<br> yzhao7@wpi.edu
+
+<br>
+<br>
+
+
+
+## Alumni
 
 Yuteng Zhou, PhD 2017, Currently with Mathworks<br>
 Zhilu Chen, PhD 2017, Currently with Google<br>
