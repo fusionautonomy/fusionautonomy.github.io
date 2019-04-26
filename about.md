@@ -8,15 +8,15 @@ comments: true
 
 Xinming Huang
 
-| ![Prof. Xinming Huang]({{site.baseurl}}/assets/images/xinming.gif) | Professor<br> Department of Electrical and Computer Engineering, WPI<br> Email: xhuang@wpi.edu<br> Phone: +1-508-831-5771<br> <a href="http://users.wpi.edu/~xhuang/">Personal page</a> |
+| ![Prof. Xinming Huang|160x200]({{site.baseurl}}/assets/images/xinming.gif) | | Professor<br> Department of Electrical and Computer Engineering, WPI<br> Email: xhuang@wpi.edu<br> Phone: +1-508-831-5771<br> <a href="http://users.wpi.edu/~xhuang/">Personal page</a> |
 
 
 
 
 **Current Members**
 
-| ![Yecheng Lyu]({{site.baseurl}}/assets/images/yecheng.jpg) | ![Lin Bai]({{site.baseurl}}/assets/images/lbai.jpg) | ![Mahdi Elhousni]({{site.baseurl}}/assets/images/melhousni.jpg) | ![Yiming Zhao]({{site.baseurl}}/assets/images/yiming.png) |
-| <a href="https://scholar.google.com/citations?user=yZHiTWsAAAAJ&hl=en">Google Scholar</a> | <a href="https://scholar.google.com/citations?hl=en&user=L7gsnOEAAAAJ">Google Scholar</a><br> <a href="https://linbaiwpi.github.io">Personal page</a> |
+| ![Yecheng Lyu|160x200]({{site.baseurl}}/assets/images/yecheng.jpg) | ![Lin Bai|160x200]({{site.baseurl}}/assets/images/lbai.jpg) | ![Mahdi Elhousni|160x200]({{site.baseurl}}/assets/images/melhousni.jpg) | ![Yiming Zhao|160x200]({{site.baseurl}}/assets/images/yiming.png) |
+| Yecheng Lyu<br> Email: ylyu@wpi.edu<br> <a href="https://scholar.google.com/citations?user=yZHiTWsAAAAJ&hl=en">Google Scholar</a> | Lin Bai<br> Email: lbai2@wpi.edu<br> <a href="https://scholar.google.com/citations?hl=en&user=L7gsnOEAAAAJ">Google Scholar</a><br> <a href="https://linbaiwpi.github.io">Personal page</a> | Mahdi Elhousni<br> Email: melhousni@wpi.edu | Yiming Zhao<br> Email: yzhao7@wpi.edu
 
 
 
