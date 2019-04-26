@@ -4,7 +4,7 @@ title: "Fusion Autonomy"
 description: "FusionAutonomy Group @ WPI"
 meta_description: "FusionAutonomy Group @ WPI"
 logo: 'assets/images/wpi_logo_m.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/wpi_logo_m.png'
 paginate: 12
 baseurl: '/'
 email: 'lbai.ece.wpi@gmail.com'
