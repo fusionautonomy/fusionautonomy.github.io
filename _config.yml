@@ -3,7 +3,7 @@ name: "Fusion Autonomy"
 title: "Fusion Autonomy"
 description: "FusionAutonomy Group @ WPI"
 meta_description: "FusionAutonomy Group @ WPI"
-logo: 'assets/images/wpi_icon.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/wpi_icon.png'
 paginate: 12
 baseurl: '/'
