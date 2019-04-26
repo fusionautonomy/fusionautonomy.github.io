@@ -7,7 +7,7 @@ logo: 'assets/images/wpi_logo_m.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
-email: 'FusionAutonomous Group @ WPI'
+email: 'lbai.ece.wpi@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'officialweb'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
@@ -17,7 +17,7 @@ author:
   lbai:
     name: Lin
     display_name: Lin
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 000
     email: lbai.ece.wpi@gmail.com
     web: https://linbaiwpi.github.io
     description: "PhD Candidate of ECE WPI"
