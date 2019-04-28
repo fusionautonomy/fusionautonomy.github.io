@@ -8,3 +8,8 @@ Pedestrian detection is a critical feature of autonomous vehicle or advanced dri
 
 ![]({{site.baseurl}}/assets/images/project_pedestrian_fig2.jpg)
 
+
+**Click to view the result in Youtube**
+
+[![Youtube](https://img.youtube.com/vi/rs4IO4eantc/0.jpg)](https://www.youtube.com/watch?v=rs4IO4eantc)
+

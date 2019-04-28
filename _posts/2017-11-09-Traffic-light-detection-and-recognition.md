@@ -8,3 +8,9 @@ Automatic detection of traffic lights has great importance to road safety. We de
 
 ![]({{site.baseurl}}/assets/images/project_trafficlight_fig3.jpg)
 
+
+**Click to view the result in Youtube**
+
+[![Youtube](https://img.youtube.com/vi/OckcltWxQR4/0.jpg)](https://www.youtube.com/watch?v=OckcltWxQR4)
+
+

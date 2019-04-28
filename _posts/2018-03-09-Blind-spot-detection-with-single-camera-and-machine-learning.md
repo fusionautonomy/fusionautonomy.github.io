@@ -9,4 +9,5 @@ Blind spot detection is an important feature of ADAS. We developed a camera-base
 
 
 **Click to view the result in Youtube**
-[![Youtube](https://img.youtube.com/watch?v=DZnGQDz5xBk/0.jpg)](https://www.youtube.com/watch?v=DZnGQDz5xBk)
+
+[![Youtube](https://img.youtube.com/vi/DZnGQDz5xBk/0.jpg)](https://www.youtube.com/watch?v=DZnGQDz5xBk)
