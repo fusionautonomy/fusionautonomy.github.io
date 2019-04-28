@@ -15,7 +15,7 @@ comments: false
 
 ## Current Members
 
-| ![Yecheng Lyu]({{site.baseurl}}/assets/images/yecheng.jpg) | | | ![Lin Bai]({{site.baseurl}}/assets/images/yecheng.jpg) | | | ![Mahdi Elhousni]({{site.baseurl}}/assets/images/mahdi.jpg) | | | ![Yiming Zhao]({{site.baseurl}}/assets/images/yiming.jpg) |
+| ![Yecheng Lyu]({{site.baseurl}}/assets/images/yecheng.jpg) | | | ![Lin Bai]({{site.baseurl}}/assets/images/lin.png) | | | ![Mahdi Elhousni]({{site.baseurl}}/assets/images/mahdi.jpg) | | | ![Yiming Zhao]({{site.baseurl}}/assets/images/yiming.jpg) |
 | **Yecheng Lyu**<br> ylyu@wpi.edu<br> <a href="https://scholar.google.com/citations?user=yZHiTWsAAAAJ&hl=en">Google Scholar</a> | | | **Lin Bai**<br> lbai2@wpi.edu<br> <a href="https://scholar.google.com/citations?hl=en&user=L7gsnOEAAAAJ">Google Scholar</a><br> <a href="https://linbaiwpi.github.io">Personal page</a> | | | **Mahdi Elhousni**<br> melhousni@wpi.edu | | | **Yiming Zhao**<br> yzhao7@wpi.edu
 
 <br>
